@@ -7,4 +7,5 @@ An assignment on Distributed Hash Table (in Python) with automated test cases, I
 - Mechanism to put and get files from the DHT.
 - Failure tolerance with a replication factor of one.
 
+Here is a [video tutorial](https://youtu.be/7oeJFxVYq9c).
 Other details can be found in the `Manual.pdf`.
